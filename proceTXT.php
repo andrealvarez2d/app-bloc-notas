@@ -39,6 +39,8 @@
         $texto .= fgets($abrir);
     }
 
+    $rut = substr($ruta, 13);
+
     fclose($abrir);
     ?>
 

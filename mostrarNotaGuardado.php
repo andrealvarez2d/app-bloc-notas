@@ -2,7 +2,7 @@
     <div class="card-header">
     </div>
     <div class="card-body">
-        <h5>Ruta de guardado: <?php echo $ruta; ?></h5>
+        <h5>Ruta de guardado: <?php echo $rut; ?></h5>
         <h6>Contenido:</h6>
         <p><?php echo $texto; ?></p>
         <br>

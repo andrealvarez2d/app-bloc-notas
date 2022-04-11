@@ -2,6 +2,7 @@
     $text = $_GET['texto'];
     $dir = $_GET['dir'];
     $name = $_GET['nombre'];
+    $dir = substr($dir, 13);
 ?>
 
 <!DOCTYPE html>
