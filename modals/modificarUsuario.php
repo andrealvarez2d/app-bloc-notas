@@ -16,7 +16,7 @@
                     </div>
                     <div class="mb-3">
                         <label for="contra" class="col-form-label">Password:</label>
-                        <input type="password" name="contra" value="<?php echo $fileQUERY['password']; ?>" required>
+                        <input type="password" name="contra" required>
                     </div>
             </div>
             <div class="modal-footer">
